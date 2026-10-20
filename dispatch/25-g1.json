@@ -1,0 +1,10 @@
+{
+  "dispatch_id": "25-g1",
+  "digest": "138fbfff2ced81b8bbdf3b9ca29e1f27476252ac055d871fcfe981ea2476ee5c",
+  "claim_ref": "refs/claims/1426440312/25/138fbfff2ced",
+  "title": "E2E-1：新建 hello.md",
+  "body": "在仓库根目录新建 hello.md，内容只有一行：Hello from Grok via harness.",
+  "approver_id": "271876985",
+  "issue_updated_at": "2026-10-20T04:58:55Z",
+  "run_id": "39372431517"
+}
