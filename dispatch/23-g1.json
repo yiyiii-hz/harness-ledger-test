@@ -1,0 +1,10 @@
+{
+  "dispatch_id": "23-g1",
+  "digest": "a1125b55ba0e0850c2715d1a3179c7a13e7a4a9c513a1b2c974e28b2e2aa2a3e",
+  "claim_ref": "refs/claims/1426440312/23/a1125b55ba0e",
+  "title": "L1 ledger task",
+  "body": "write hello.md",
+  "approver_id": "271876985",
+  "issue_updated_at": "2026-10-20T04:42:11Z",
+  "run_id": "39370966392"
+}
