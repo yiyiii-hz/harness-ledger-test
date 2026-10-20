@@ -1,0 +1,10 @@
+{
+  "dispatch_id": "49-g1",
+  "digest": "831681a86cfe8a6f00d9d45de1ef0191e7bdd47d8a058cad20cf82c475f22344",
+  "claim_ref": "refs/claims/1426440312/49/831681a86cfe",
+  "title": "E2E-5：给 stats.py 加 range_()",
+  "body": "在 stats.py 里新增函数 range_(values)：返回最大值减最小值，空列表时和 mean() 一样抛出 ValueError。请新增测试文件覆盖正常情况、单个元素和空列表。不要修改已有函数和已有测试。",
+  "approver_id": "271876985",
+  "issue_updated_at": "2026-10-20T08:18:14Z",
+  "run_id": "39392424159"
+}
