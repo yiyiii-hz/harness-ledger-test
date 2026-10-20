@@ -1,0 +1,10 @@
+{
+  "dispatch_id": "47-g1",
+  "digest": "0f9821f2efeb05029d4286768fa51a1419c201fa0ef475d7da7cbe7f2a617ed4",
+  "claim_ref": "refs/claims/1426440312/47/0f9821f2efeb",
+  "title": "E2E-4：给 stats.py 加 stdev()",
+  "body": "在 stats.py 里新增函数 stdev(values)：返回总体标准差（variance 的平方根），空列表时和 mean() 一样抛出 ValueError。请新增测试文件覆盖正常情况和空列表。不要修改已有函数和已有测试。",
+  "approver_id": "271876985",
+  "issue_updated_at": "2026-10-20T08:14:13Z",
+  "run_id": "39391942229"
+}
