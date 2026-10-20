@@ -1,0 +1,10 @@
+{
+  "dispatch_id": "44-g1",
+  "digest": "af04443bd64b618b2513870a12115cd6dcb7d4c07496f9e961cb6624ede74d9b",
+  "claim_ref": "refs/claims/1426440312/44/af04443bd64b",
+  "title": "E2E-3：给 stats.py 加 variance()，并补测试",
+  "body": "在 stats.py 里新增函数 variance(values)：返回非空数字列表的总体方差（除以 n）；列表为空时和 mean() 一样抛出 ValueError。请为 variance() 新增测试文件，覆盖正常情况和空列表。不要修改已有函数和已有测试。",
+  "approver_id": "271876985",
+  "issue_updated_at": "2026-10-20T05:45:54Z",
+  "run_id": "39376643445"
+}
