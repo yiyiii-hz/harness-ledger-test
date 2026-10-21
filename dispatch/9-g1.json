@@ -1,0 +1,11 @@
+{
+  "dispatch_id": "9-g1",
+  "digest": "59b45fe741748ce5552d396aa2c0538ac8e0a3e06a53fbd1c681d42131acdddd",
+  "claim_ref": "refs/claims/1427829395/9/59b45fe74174",
+  "title": "W2 等 D2",
+  "body": "依赖：#8",
+  "approver_id": "271876985",
+  "issue_updated_at": "2026-10-21T03:42:44Z",
+  "run_id": "39540070840",
+  "mode": "label"
+}
