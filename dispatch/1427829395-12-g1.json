@@ -1,0 +1,11 @@
+{
+  "dispatch_id": "12-g1",
+  "digest": "ec8a9bbbc94f5be6c70fe6e62222b834469397aa8bbdcf441fe86f93e2fc6c0d",
+  "claim_ref": "refs/claims/1427829395/12/ec8a9bbbc94f",
+  "title": "P 先开 PR 后批准",
+  "body": "4a 测试",
+  "approver_id": "271876985",
+  "issue_updated_at": "2026-10-21T05:28:07Z",
+  "run_id": "39549721037",
+  "mode": "approve"
+}
