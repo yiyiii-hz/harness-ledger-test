@@ -1,0 +1,11 @@
+{
+  "dispatch_id": "12-g4",
+  "digest": "e52c57b9bf6d0cb56a0976fa621fe9ef40562c763368eeb39b08c0d2c020e3de",
+  "claim_ref": "refs/claims/1427829395/12/e52c57b9bf6d",
+  "title": "P 先开 PR 后批准",
+  "body": "4a 测试（第四版）",
+  "approver_id": "271876985",
+  "issue_updated_at": "2026-10-21T05:37:19Z",
+  "run_id": "39550593064",
+  "mode": "approve"
+}
