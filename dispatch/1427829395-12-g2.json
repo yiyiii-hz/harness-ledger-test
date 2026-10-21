@@ -1,0 +1,11 @@
+{
+  "dispatch_id": "12-g2",
+  "digest": "4f54983aed7ad61689c287e5794771648bfc371a0b2366ebaa1ad096c8e7a1d7",
+  "claim_ref": "refs/claims/1427829395/12/4f54983aed7a",
+  "title": "P 先开 PR 后批准",
+  "body": "4a 测试（改一下，撤销后重批）",
+  "approver_id": "271876985",
+  "issue_updated_at": "2026-10-21T05:31:49Z",
+  "run_id": "39550076835",
+  "mode": "approve"
+}
