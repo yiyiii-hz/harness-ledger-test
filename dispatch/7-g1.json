@@ -1,0 +1,11 @@
+{
+  "dispatch_id": "7-g1",
+  "digest": "6247dda211b1126869ec14c160d2b7f7104f8d90af6fb41614b24430010a3ed8",
+  "claim_ref": "refs/claims/1427829395/7/6247dda211b1",
+  "title": "W 等 D",
+  "body": "要等 D\n依赖：#6\n",
+  "approver_id": "271876985",
+  "issue_updated_at": "2026-10-21T03:40:07Z",
+  "run_id": "39539832824",
+  "mode": "label"
+}
