@@ -1,0 +1,11 @@
+{
+  "dispatch_id": "11-g1",
+  "digest": "b34a381fa19636602358925139f644fae0c9f5d7813156dd9202f0ff9ebc55ec",
+  "claim_ref": "refs/claims/1427829395/11/b34a381fa196",
+  "title": "W3 等 D3",
+  "body": "依赖：#10",
+  "approver_id": "271876985",
+  "issue_updated_at": "2026-10-21T03:46:31Z",
+  "run_id": "39540426170",
+  "mode": "approve"
+}
