@@ -1,0 +1,11 @@
+{
+  "dispatch_id": "5-g1",
+  "digest": "0b70079989235816ab9924ea03aed7a2ba901358fba16d381c58f359d8284026",
+  "claim_ref": "refs/claims/1427829395/5/0b7007998923",
+  "title": "A 普通任务",
+  "body": "做一件事\n",
+  "approver_id": "271876985",
+  "issue_updated_at": "2026-10-21T03:39:31Z",
+  "run_id": "39539780726",
+  "mode": "label"
+}
