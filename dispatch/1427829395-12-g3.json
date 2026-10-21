@@ -1,0 +1,11 @@
+{
+  "dispatch_id": "12-g3",
+  "digest": "9d9c2f3aa242fd1c2155dc1c93703f2baf3a45acc0ad38119278dd769c320214",
+  "claim_ref": "refs/claims/1427829395/12/9d9c2f3aa242",
+  "title": "P 先开 PR 后批准",
+  "body": "4a 测试（第三版）",
+  "approver_id": "271876985",
+  "issue_updated_at": "2026-10-21T05:33:54Z",
+  "run_id": "39550271470",
+  "mode": "approve"
+}
